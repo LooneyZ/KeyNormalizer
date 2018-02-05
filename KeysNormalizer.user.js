@@ -5,8 +5,8 @@
 // @description  Making key arrays to ASF standard 
 // @author       Looney
 // @match        */pages/command.html
-// @updateURL    https://raw.githubusercontent.com/LooneyZ/KeyNormalizer/master/KeysNormalizer.js
-// @downloadURL  https://raw.githubusercontent.com/LooneyZ/KeyNormalizer/master/KeysNormalizer.js
+// @updateURL    https://raw.githubusercontent.com/LooneyZ/KeyNormalizer/master/KeysNormalizer.user.js
+// @downloadURL  https://raw.githubusercontent.com/LooneyZ/KeyNormalizer/master/KeysNormalizer.user.js
 // @grant        none
 // ==/UserScript==
 
